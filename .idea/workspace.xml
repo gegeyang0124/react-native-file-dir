@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4af2a4ad-47b5-47dd-9c04-81da8568d8e4" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -24,8 +24,8 @@
               <entry file="file://$PROJECT_DIR$/README.md">
                 <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
                   <state split_layout="SPLIT">
-                    <first_editor relative-caret-position="171">
-                      <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="15" selection-end-column="3" />
+                    <first_editor relative-caret-position="323">
+                      <caret line="17" column="23" lean-forward="true" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
                       <folding />
                     </first_editor>
                     <second_editor>
@@ -46,7 +46,7 @@
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="361">
-              <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+              <caret line="19" column="9" lean-forward="false" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -55,7 +55,7 @@
       <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="379">
+            <state relative-caret-position="380">
               <caret line="167" column="5" lean-forward="false" selection-start-line="167" selection-start-column="5" selection-end-line="167" selection-end-column="5" />
               <folding>
                 <element signature="e#144#786#0" expanded="false" />
@@ -88,8 +88,8 @@
       <list>
         <option value="$PROJECT_DIR$/FileSystem.js" />
         <option value="$PROJECT_DIR$/index.js" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -176,17 +176,18 @@
       <workItem from="1542781538161" duration="1177000" />
       <workItem from="1542864312695" duration="699000" />
       <workItem from="1542871933173" duration="179000" />
+      <workItem from="1543538770465" duration="19000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2055000" />
+    <option name="totallyTimeSpent" value="2074000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="100" y="132" width="1361" height="796" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24981412" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24981412" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -216,6 +217,38 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="167" column="5" lean-forward="false" selection-start-line="167" selection-start-column="5" selection-end-line="167" selection-end-column="5" />
+          <folding>
+            <element signature="e#144#786#0" expanded="false" />
+            <element signature="e#824#1544#0" expanded="false" />
+            <element signature="e#1550#2163#0" expanded="false" />
+            <element signature="e#2188#2292#0" expanded="false" />
+            <element signature="e#2298#2407#0" expanded="false" />
+            <element signature="e#2442#2782#0" expanded="false" />
+            <element signature="e#2788#2955#0" expanded="false" />
+            <element signature="e#2961#4094#0" expanded="false" />
+            <element signature="e#4148#4937#0" expanded="false" />
+            <element signature="e#4943#5215#0" expanded="false" />
+            <element signature="e#5249#5367#0" expanded="false" />
+            <element signature="e#5373#5657#0" expanded="false" />
+            <element signature="e#5710#6142#0" expanded="false" />
+            <element signature="e#6148#6321#0" expanded="false" />
+            <element signature="e#6362#6883#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
@@ -304,7 +337,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="379">
+        <state relative-caret-position="380">
           <caret line="167" column="5" lean-forward="false" selection-start-line="167" selection-start-column="5" selection-end-line="167" selection-end-column="5" />
           <folding>
             <element signature="e#144#786#0" expanded="false" />
@@ -326,24 +359,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="9" lean-forward="false" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="171">
-            <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="15" selection-end-column="3" />
+          <first_editor relative-caret-position="323">
+            <caret line="17" column="23" lean-forward="true" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
             <folding />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
           </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>

@@ -14,3 +14,5 @@ FileDirMgr.copyDir();//复制目录到指定目录
 FileDirMgr.readDir();//读取目录下的所有文件
 FileDirMgr.deleteDirOrFile();//删除目录或文件
 ```
+
+### [我的博客](http://blog.sina.com.cn/s/articlelist_6078695441_0_1.html)
